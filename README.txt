@@ -1,0 +1,1 @@
+Aplikacja sklepowa do wyœwietlania zamówieñ oraz produktów na stanie. Dane przetrzymywane w bazie, umo¿liwiona edycja danych.
