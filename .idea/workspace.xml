@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a464b1cc-ee28-476f-9170-ed654fe031fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bear.db" beforeDir="false" afterPath="$PROJECT_DIR$/bear.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myStore.py" beforeDir="false" afterPath="$PROJECT_DIR$/myStore.py" afterDir="false" />
     </list>
@@ -20,10 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/myStore.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="330">
+              <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#1148#3795#0" />
               </folding>
             </state>
           </provider>
@@ -254,7 +254,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.49774775" weight="0.12469636" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49554655" visible="true" weight="0.203966" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49554655" weight="0.203966" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,10 +307,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myStore.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="330">
+          <caret line="107" column="29" selection-start-line="107" selection-start-column="29" selection-end-line="107" selection-end-column="29" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#1148#3795#0" />
           </folding>
         </state>
       </provider>

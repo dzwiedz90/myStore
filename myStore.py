@@ -97,12 +97,15 @@ class Create_Window(tkinter.Frame):
 
 
     def orders_window(self, event=None):
+        new_window = tkinter.Toplevel(self)
+        new_window.title("Lista zamówień")
+        new_window.geometry("1210x300")
+        new_window.resizable(0, 0)
+
         def create_window():
             global new_orders
-            new_orders = tkinter.Toplevel(self)
-            new_orders.title("Lista zamówień")
-            new_orders.geometry("1210x300")
-            new_orders.resizable(0, 0)
+            new_orders = tkinter.Frame(new_window)
+            new_orders.pack()
 
         create_window()
 
