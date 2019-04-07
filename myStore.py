@@ -27,12 +27,15 @@ class Create_Window(tkinter.Frame):
 
     def products_window(self, event=None):
         #Create new window
+        new_window = tkinter.Toplevel(self)
+        new_window.title("Lista produktów")
+        new_window.geometry("815x300")
+        new_window.resizable(0, 0)
+
         def create_window():
             global new_products
-            new_products = tkinter.Toplevel(self)
-            new_products.title("Lista produktów")
-            new_products.geometry("815x300")
-            new_products.resizable(0, 0)
+            new_products = tkinter.Frame(new_window)
+            new_products.pack()
 
         create_window()
 
